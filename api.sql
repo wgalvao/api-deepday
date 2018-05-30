@@ -10,7 +10,7 @@
 -- Session ID: 5
 -- Character set: latin1
 -- Collation: latin1_swedish_ci
-
+-- update 230-05-2018
 
 CREATE DATABASE api
   CHARACTER SET latin1
